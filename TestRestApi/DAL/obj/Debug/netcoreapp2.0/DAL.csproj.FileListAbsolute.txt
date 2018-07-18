@@ -1,0 +1,6 @@
+D:\TestRestApi\TestRestApi\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+D:\TestRestApi\TestRestApi\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReference.cache
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
