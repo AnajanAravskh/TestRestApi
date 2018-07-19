@@ -4,3 +4,8 @@ D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReferen
 D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
 D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
 D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+D:\TestRestApi\TestRestApi\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.json
+D:\TestRestApi\TestRestApi\DAL\bin\Debug\netcoreapp2.0\DAL.runtimeconfig.dev.json
+D:\TestRestApi\TestRestApi\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+D:\TestRestApi\TestRestApi\DAL\obj\Debug\netcoreapp2.0\DAL.pdb

@@ -1,0 +1,14 @@
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\RestService.deps.json
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\RestService.runtimeconfig.json
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\RestService.runtimeconfig.dev.json
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\RestService.dll
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\RestService.pdb
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\DAL.dll
+D:\TestRestApi\TestRestApi\RestService\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.csprojAssemblyReference.cache
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.csproj.CoreCompileInputs.cache
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.AssemblyInfoInputs.cache
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.AssemblyInfo.cs
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.csproj.CopyComplete
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.dll
+D:\TestRestApi\TestRestApi\RestService\obj\Debug\netcoreapp2.0\RestService.pdb
