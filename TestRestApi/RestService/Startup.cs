@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DAL.Context;
+using DAL.Entities;
+using DAL.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -27,6 +29,7 @@ namespace RestService
         {
             services.AddMvc();
             services.AddDbContext<ResourcesContext>(options => options.UseSqlServer(Configuration.GetConnectionString("TestRestApiDBConnection")));
+            services.AddSingleton<IRepository<Resource>, ResourcesRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
